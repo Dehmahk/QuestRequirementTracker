@@ -11,7 +11,7 @@ import net.runelite.api.Skill;
 import net.runelite.client.callback.ClientThread;
 import net.runelite.client.ui.PluginPanel;
 import net.runelite.client.util.ImageUtil;
-
+import lombok.extern.slf4j.Slf4j;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.image.BufferedImage;
@@ -22,6 +22,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+@Slf4j
 public class QuestRequirementTrackerPanel extends PluginPanel
 {
     private java.awt.event.MouseWheelListener scrollForwarder;
@@ -666,7 +667,7 @@ public class QuestRequirementTrackerPanel extends PluginPanel
                     e.consume();
                     String url = "https://oldschool.runescape.wiki/w/" + questName.replace(" ", "_");
                     try { java.awt.Desktop.getDesktop().browse(new java.net.URI(url)); }
-                    catch (Exception ex) { ex.printStackTrace(); }
+                    catch (Exception ex) { log.error("Failed to open wiki URL", ex); } //NOSONAR
                 }
                 @Override public void mousePressed(java.awt.event.MouseEvent e) { e.consume(); }
                 @Override public void mouseReleased(java.awt.event.MouseEvent e) { e.consume(); }
