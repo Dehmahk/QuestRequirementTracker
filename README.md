@@ -65,11 +65,13 @@ Expand any quest to see a full breakdown:
 ---
 
 ## Screenshots
-https://imgur.com/a/x1u4wFz.png
+<img width="225" height="639" alt="image" src="https://github.com/user-attachments/assets/6789a705-5f3a-4fa3-b013-a3ffd69a612e" />
 
-https://imgur.com/I1Ra4XC.png
 
-https://imgur.com/98eeNoE.png
+<img width="216" height="370" alt="image" src="https://github.com/user-attachments/assets/f155e714-8d83-4006-9eca-afddcba2bfc8" />
+
+<img width="240" height="679" alt="image" src="https://github.com/user-attachments/assets/7244778e-a854-4e40-a9b1-60e75a0afb87" />
+
 
 
 ---
