@@ -65,11 +65,11 @@ Expand any quest to see a full breakdown:
 ---
 
 ## Screenshots
-https://imgur.com/a/x1u4wFz
+https://imgur.com/a/x1u4wFz.png
 
-https://imgur.com/I1Ra4XC
+https://imgur.com/I1Ra4XC.png
 
-https://imgur.com/98eeNoE
+https://imgur.com/98eeNoE.png
 
 
 ---
