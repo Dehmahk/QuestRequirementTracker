@@ -81,7 +81,10 @@ Expand any quest to see a full breakdown:
 Install via the RuneLite **Plugin Hub** — search for **Quest Requirement Tracker**.
 
 ---
+## Support
+https://discord.gg/AJkV59UZNS
 
+---
 ## Credits
 
 Developed by **Dehmahk**. Quest data sourced from the [OSRS Wiki](https://oldschool.runescape.wiki).
